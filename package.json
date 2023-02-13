@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.0.0",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-charts-wrapper": "^0.5.11",
+    "react-native-svg": "^13.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
